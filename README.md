@@ -1,16 +1,18 @@
-# firebase_ddd_app
+# Notes_App
 
-A new Flutter project.
+*When your Heart speaks, take good notes*
+The golden thread to vanquish any herculean task is to chunk it, defining the todos and accomplishing it consistently.
 
-## Getting Started
+This App is designed for assisting you in your chunk hunt!
+The app gives you a personalised experience by authentication.
+The app store your notes in the cloud which enables you to access your notes independent of device.
+You can watch your completed and uncompleted notes with ease, which enables you to track your progress.
+You can create, update, delete any of your notes or todos trouble-free.
 
-This project is a starting point for a Flutter application.
+Happy Chunking!
 
-A few resources to get you started if this is your first Flutter project:
+## App Summary
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- The app is designed in **Domain Driven Design(DDD) Architecture**.
+- **Bloc** is used for state management.
+- **Firebase** supports the backend.
