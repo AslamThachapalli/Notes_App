@@ -1,6 +1,6 @@
 # Notes_App
 
-*When your Heart speaks, take good notes*.__
+*When your Heart speaks, take good notes*.\
 The golden thread to vanquish any herculean task is to chunk it, defining the todos and accomplishing it consistently.
 
 This App is designed for assisting you in your chunk hunt!
